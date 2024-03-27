@@ -11,6 +11,7 @@ public class Usuario {
         this.sobrenome = sobrenome;
         this.idade = idade;
         this.data_nascimento = data_nascimento;
-        this.contato = contato
+        this.contato = contato;
     }
+
 }
